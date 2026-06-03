@@ -20,6 +20,18 @@ Le site est une page HTML responsive structurée en sections :
 ## Modifier le site
 
 - Le contenu éditorial se trouve dans `index.html`, notamment les hypothèses de travail à compléter dans la rubrique Prévisionnel financier.
+2. Le porteur de projet
+3. Concept commercial
+4. Étude de marché et zone de chalandise
+5. Investissements nécessaires
+6. Prévisionnel simplifié
+7. Forces du projet
+8. Calendrier de lancement
+9. Contact
+
+## Modifier le site
+
+- Le contenu éditorial se trouve dans `index.html`.
 - Le design noir et violet se trouve dans `styles.css`.
 - Le menu mobile se trouve dans `script.js`.
 
