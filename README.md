@@ -7,6 +7,19 @@ Site vitrine professionnel destiné aux banques, partenaires, organismes d'aide 
 Le site est une page HTML responsive structurée en sections :
 
 1. Accueil / résumé du projet
+2. Business plan
+3. Le porteur de projet
+4. Concept commercial
+5. Étude de marché et zone de chalandise
+6. Investissements nécessaires
+7. Prévisionnel financier
+8. Forces du projet
+9. Calendrier de lancement
+10. Contact
+
+## Modifier le site
+
+- Le contenu éditorial se trouve dans `index.html`, notamment les hypothèses de travail à compléter dans la rubrique Prévisionnel financier.
 2. Le porteur de projet
 3. Concept commercial
 4. Étude de marché et zone de chalandise
